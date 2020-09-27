@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "register-service-worker": "^1.7.1",
-    "vue": "^2.6.11",
+    "vue": "^2.6.12",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
   },
@@ -30,6 +30,6 @@
     "postcss-nested": "^4.2.3",
     "prettier": "^1.19.1",
     "vue-svg-loader": "^0.16.0",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.12"
   }
 }

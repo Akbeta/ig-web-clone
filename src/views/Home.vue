@@ -6,18 +6,21 @@
     <CustomText class="a3" tag="p" size="xsmall">Merhaba dünya</CustomText>
     <CustomText tag="p" size="xxsmall">Merhaba dünya</CustomText>
     <IconHome width="60" height="60" />
+    <IconComment width="60" heigth="60" />
   </div>
 </template>
 
 <script>
 import CustomText from '@/components/CustomText'
 import IconHome from '../icons/home.svg'
+import IconComment from '../icons/comment.svg'
 
 export default {
   name: 'Home',
   components: {
     CustomText,
-    IconHome
+    IconHome,
+    IconComment
   }
 }
 </script>
