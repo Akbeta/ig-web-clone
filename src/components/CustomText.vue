@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'Text',
+  name: 'CustomText',
   props: {
     tag: {
       type: String,
@@ -14,7 +14,7 @@ export default {
     },
     size: {
       type: String,
-      default: 'normal', //normal: 14, small: 12, xsmall: 11, xxsmall: 10
+      default: 'normal', // normal:14, small:12, xsmall:11, xxsmall:10
       validator: function(value) {
         return ['normal', 'small', 'xsmall', 'xxsmall'].indexOf(value) !== -1
       }
@@ -23,7 +23,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .small {
   font-size: 12px;
 }
