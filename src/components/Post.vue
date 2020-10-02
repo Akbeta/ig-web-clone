@@ -23,7 +23,7 @@
       </header>
       <!-- media -->
       <div class="post-media">
-        <img src="https://instagram.fbtz1-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/120535466_670681246985841_3776624366342773200_n.jpg?_nc_ht=instagram.fbtz1-3.fna.fbcdn.net&_nc_cat=109&_nc_ohc=IS--UnMHsFEAX-roTED&oh=1b00386c5627fdb6a4706192d535c412&oe=5FA1C2BD" alt="">
+        <img src="../assets/denemesrc.jpg" alt="">
       </div>
       <!-- actions -->
       <div class="action-buttons section">
