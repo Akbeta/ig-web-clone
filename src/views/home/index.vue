@@ -7,6 +7,30 @@
     <CustomText tag="p" size="xxsmall">Merhaba dünya</CustomText>
     <IconHome width="60" height="60" />
     <IconComment width="60" heigth="60" />
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias blanditiis doloremque enim et eveniet expedita ipsa maxime nemo porro voluptas. Corporis cum eligendi minima officia quae quam repellendus unde veritatis.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias blanditiis doloremque enim et eveniet expedita ipsa maxime nemo porro voluptas. Corporis cum eligendi minima officia quae quam repellendus unde veritatis.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias blanditiis doloremque enim et eveniet expedita ipsa maxime nemo porro voluptas. Corporis cum eligendi minima officia quae quam repellendus unde veritatis.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias blanditiis doloremque enim et eveniet expedita ipsa maxime nemo porro voluptas. Corporis cum eligendi minima officia quae quam repellendus unde veritatis.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias blanditiis doloremque enim et eveniet expedita ipsa maxime nemo porro voluptas. Corporis cum eligendi minima officia quae quam repellendus unde veritatis.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias blanditiis doloremque enim et eveniet expedita ipsa maxime nemo porro voluptas. Corporis cum eligendi minima officia quae quam repellendus unde veritatis.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias blanditiis doloremque enim et eveniet expedita ipsa maxime nemo porro voluptas. Corporis cum eligendi minima officia quae quam repellendus unde veritatis.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias blanditiis doloremque enim et eveniet expedita ipsa maxime nemo porro voluptas. Corporis cum eligendi minima officia quae quam repellendus unde veritatis.
+    </p>
   </div>
 </template>
 
