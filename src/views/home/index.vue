@@ -4,8 +4,17 @@
 
     <div class="timeline">
       <h1>Home</h1>
+      <br>
+      <br>
+      <br>
+      <br>
 
-      <Avatar :size="40"/>
+      <Post />
+
+      <br>
+      <br>
+      <br>
+      <br>
     </div>
 
 
@@ -20,13 +29,11 @@
 </template>
 
 <script>
-
-import Avatar from "@/components/avatar";
-
+import Post from '@/components/Post'
 export default {
   name: 'Home',
   components: {
-    Avatar
+    Post
   }
 }
 </script>
