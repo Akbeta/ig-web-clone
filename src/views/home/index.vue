@@ -12,8 +12,8 @@
 
 <script>
 import CustomText from '@/components/CustomText'
-import IconHome from '../icons/home.svg'
-import IconComment from '../icons/comment.svg'
+import IconHome from '../../icons/home.svg'
+import IconComment from '../../icons/comment.svg'
 
 export default {
   name: 'Home',
